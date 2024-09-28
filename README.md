@@ -34,4 +34,4 @@ En el marco del proyecto integrador final del segundo track de la carrera 𝐂�
 
 𝐄𝐧𝐥𝐚𝐜𝐞𝐬 𝐑𝐞𝐥𝐞𝐯𝐚𝐧𝐭𝐞𝐬:
 
-𝐃𝐞𝐦𝐨 𝐞𝐧 𝐕𝐞𝐫𝐜𝐞𝐥: https://lnkd.in/dfKCSmuZ
+[𝐃𝐞𝐦𝐨 𝐞𝐧 𝐕𝐞𝐫𝐜𝐞𝐥](https://festivall-juan-manuel-s-projects-aa10712c.vercel.app/)
